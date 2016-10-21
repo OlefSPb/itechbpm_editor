@@ -1,0 +1,13 @@
+D:\ProjectX\itechbpm_editor\src\AssemblyImport\obj\Debug\NClass.AssemblyImport.ImportSettingsForm.resources
+D:\ProjectX\itechbpm_editor\src\AssemblyImport\obj\Debug\NClass.AssemblyImport.Lang.Strings.resources
+D:\ProjectX\itechbpm_editor\src\AssemblyImport\obj\Debug\NClass.AssemblyImport.Properties.Resources.resources
+D:\ProjectX\itechbpm_editor\src\AssemblyImport\obj\Debug\NClass.AssemblyImport.Lang.Strings.de.resources
+D:\ProjectX\itechbpm_editor\src\AssemblyImport\obj\Debug\AssemblyImport.csproj.GenerateResource.Cache
+D:\ProjectX\itechbpm_editor\src\AssemblyImport\obj\Debug\AssemblyImport.csprojResolveAssemblyReference.cache
+D:\ProjectX\itechbpm_editor\src\GUI\bin\Debug\Plugins\AssemblyImport.dll.config
+D:\ProjectX\itechbpm_editor\src\GUI\bin\Debug\Plugins\AssemblyImport.dll
+D:\ProjectX\itechbpm_editor\src\GUI\bin\Debug\Plugins\AssemblyImport.pdb
+D:\ProjectX\itechbpm_editor\src\GUI\bin\Debug\Plugins\de\AssemblyImport.resources.dll
+D:\ProjectX\itechbpm_editor\src\AssemblyImport\obj\Debug\de\AssemblyImport.resources.dll
+D:\ProjectX\itechbpm_editor\src\AssemblyImport\obj\Debug\AssemblyImport.dll
+D:\ProjectX\itechbpm_editor\src\AssemblyImport\obj\Debug\AssemblyImport.pdb

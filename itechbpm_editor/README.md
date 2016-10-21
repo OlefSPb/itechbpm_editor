@@ -1,0 +1,1 @@
+## polosa71mi/polosa-71mi-smart-docs/itechbpm/itechbpm_editor

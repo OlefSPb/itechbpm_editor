@@ -1,0 +1,15 @@
+D:\ProjectX\itechbpm_editor\src\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+D:\ProjectX\itechbpm_editor\src\CSharp\bin\Debug\NClass.CSharp.dll
+D:\ProjectX\itechbpm_editor\src\CSharp\bin\Debug\NClass.CSharp.pdb
+D:\ProjectX\itechbpm_editor\src\CSharp\bin\Debug\NClass.Core.dll
+D:\ProjectX\itechbpm_editor\src\CSharp\bin\Debug\NClass.Translations.dll
+D:\ProjectX\itechbpm_editor\src\CSharp\bin\Debug\NClass.Core.pdb
+D:\ProjectX\itechbpm_editor\src\CSharp\bin\Debug\NClass.Translations.pdb
+D:\ProjectX\itechbpm_editor\src\CSharp\bin\Debug\de\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\CSharp\bin\Debug\es\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\CSharp\bin\Debug\hu\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\CSharp\bin\Debug\pt-BR\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\CSharp\bin\Debug\ru\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\CSharp\bin\Debug\zh-CN\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\CSharp\obj\Debug\NClass.CSharp.dll
+D:\ProjectX\itechbpm_editor\src\CSharp\obj\Debug\NClass.CSharp.pdb

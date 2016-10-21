@@ -1,0 +1,13 @@
+D:\ProjectX\itechbpm_editor\src\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\ProjectX\itechbpm_editor\src\Core\bin\Debug\NClass.Core.dll
+D:\ProjectX\itechbpm_editor\src\Core\bin\Debug\NClass.Core.pdb
+D:\ProjectX\itechbpm_editor\src\Core\bin\Debug\NClass.Translations.dll
+D:\ProjectX\itechbpm_editor\src\Core\bin\Debug\NClass.Translations.pdb
+D:\ProjectX\itechbpm_editor\src\Core\bin\Debug\de\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\Core\bin\Debug\es\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\Core\bin\Debug\hu\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\Core\bin\Debug\pt-BR\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\Core\bin\Debug\ru\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\Core\bin\Debug\zh-CN\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\Core\obj\Debug\NClass.Core.dll
+D:\ProjectX\itechbpm_editor\src\Core\obj\Debug\NClass.Core.pdb

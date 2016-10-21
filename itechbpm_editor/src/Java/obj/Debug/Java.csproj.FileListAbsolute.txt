@@ -1,0 +1,15 @@
+D:\ProjectX\itechbpm_editor\src\Java\obj\Debug\Java.csprojResolveAssemblyReference.cache
+D:\ProjectX\itechbpm_editor\src\Java\bin\Debug\NClass.Java.dll
+D:\ProjectX\itechbpm_editor\src\Java\bin\Debug\NClass.Java.pdb
+D:\ProjectX\itechbpm_editor\src\Java\bin\Debug\NClass.Core.dll
+D:\ProjectX\itechbpm_editor\src\Java\bin\Debug\NClass.Translations.dll
+D:\ProjectX\itechbpm_editor\src\Java\bin\Debug\NClass.Core.pdb
+D:\ProjectX\itechbpm_editor\src\Java\bin\Debug\NClass.Translations.pdb
+D:\ProjectX\itechbpm_editor\src\Java\bin\Debug\de\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\Java\bin\Debug\es\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\Java\bin\Debug\hu\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\Java\bin\Debug\pt-BR\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\Java\bin\Debug\ru\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\Java\bin\Debug\zh-CN\NClass.Translations.resources.dll
+D:\ProjectX\itechbpm_editor\src\Java\obj\Debug\NClass.Java.dll
+D:\ProjectX\itechbpm_editor\src\Java\obj\Debug\NClass.Java.pdb

@@ -1,0 +1,15 @@
+D:\ProjectX\itechbpm_editor\src\PDFExport\obj\Debug\PDFExport.PDFExportFinished.resources
+D:\ProjectX\itechbpm_editor\src\PDFExport\obj\Debug\PDFExport.PDFExportOptions.resources
+D:\ProjectX\itechbpm_editor\src\PDFExport\obj\Debug\PDFExport.PDFExportProgress.resources
+D:\ProjectX\itechbpm_editor\src\PDFExport\obj\Debug\PDFExport.Properties.Resources.resources
+D:\ProjectX\itechbpm_editor\src\PDFExport\obj\Debug\PDFExport.Lang.Strings.resources
+D:\ProjectX\itechbpm_editor\src\PDFExport\obj\Debug\PDFExport.Lang.Strings.de.resources
+D:\ProjectX\itechbpm_editor\src\PDFExport\obj\Debug\PDFExport.csproj.GenerateResource.Cache
+D:\ProjectX\itechbpm_editor\src\PDFExport\obj\Debug\PDFExport.csprojResolveAssemblyReference.cache
+D:\ProjectX\itechbpm_editor\src\GUI\bin\Debug\Plugins\PDFExport.dll.config
+D:\ProjectX\itechbpm_editor\src\GUI\bin\Debug\Plugins\PDFExport.dll
+D:\ProjectX\itechbpm_editor\src\GUI\bin\Debug\Plugins\PDFExport.pdb
+D:\ProjectX\itechbpm_editor\src\GUI\bin\Debug\Plugins\de\PDFExport.resources.dll
+D:\ProjectX\itechbpm_editor\src\PDFExport\obj\Debug\de\PDFExport.resources.dll
+D:\ProjectX\itechbpm_editor\src\PDFExport\obj\Debug\PDFExport.dll
+D:\ProjectX\itechbpm_editor\src\PDFExport\obj\Debug\PDFExport.pdb
